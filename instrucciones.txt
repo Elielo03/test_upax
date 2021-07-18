@@ -17,6 +17,4 @@ a)
     "id":1
     
 }
-b)
---GET localhost:8082/api/getAllEmployees
-{}
+b)c)d) el lsitado de empelados y el filtro lambda estan en ese mismo endpoint y tambbien lo regresa ordenado
